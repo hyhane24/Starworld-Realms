@@ -1,18 +1,14 @@
-# 🚀 Starworld Realms
+# 🛸 Starworld Realms 
 
 Space themed video game made with Unity, Blender, and C#. To test builds, check /OSX/ and /Windows/ versions.
 
-###### Objective
+###### 👾 Objective
 
 The objective of the game is to retrieve the key to spaceship. Find collectables, defeat enemies run through terrains and maze using appropriate input controls. Get help from NPCs and refer to canvas panel for successful gameplay. 
 
-###### How to play
+###### 👾 How to play
 
-You control the alien character with the help of your keyboard. The character movement is bound to regular keyboard movement keys, W - forward, A- left, D- right. Tap the mouse on screen to shoot bullets. Use the spacebar to jump.You must navigate through a vast map full of different kinds of enemies. The enemies you might encounter include:
-Flamey - Shoots at you with a breath of fire
-Frosty - Throws razor sharp ice shards at you
-Slimy - Regurgitates poison laden gases which can choke you to death
-Robbit - Performs an earth shattering stomp which can knock you off
+You control the alien character with the help of your keyboard. The character movement is bound to regular keyboard movement keys, W - forward, A- left, D- right. Tap the mouse on screen to shoot bullets. Use the spacebar to jump.You must navigate through a vast map full of different kinds of enemies. The enemies you might encounter include: Flamey (shoots at you with a breath of fire), Frosty (throws razor sharp ice shards at you), Slimy (regurgitates poison laden gases which can choke you to death), Robbit (performs an earth shattering stomp which can knock you off).
 
 You have one mode of defense against the unfriendly creatures, Blasters. You can press the space key on your keyboard to shoot your super power abilities. Blasters are powerful projectiles that shoot like lasers. Your enemies don't die however, they are left encumbered for a moment before recovering, which you can see by the stun bar above their heads. Run away quickly before they wake up again!
 
