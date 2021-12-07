@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 037abd331d5469d4c8f75dc5efae9772
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cellPrefab: {instanceID: 0}
+  - passagePrefab: {instanceID: 0}
+  - wallPrefab: {instanceID: 0}
+  - EnemyPrefab: {instanceID: 0}
+  - KeyPrefab: {instanceID: 0}
+  - healthPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
