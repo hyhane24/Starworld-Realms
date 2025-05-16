@@ -1,6 +1,6 @@
 # 🛸 Starworld Realms 
 
-Space themed video game made with Unity, Blender, and C#. To test builds, check /OSX/ and /Windows/ versions.
+Space themed video game made with Unity and Blender.
 
 ###### 👾 Objective
 
